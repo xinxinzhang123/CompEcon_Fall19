@@ -1,0 +1,6 @@
+def f1(a,b):
+    c=a+b
+    return c
+def f2(a,b):
+    c=a*b
+    return c
